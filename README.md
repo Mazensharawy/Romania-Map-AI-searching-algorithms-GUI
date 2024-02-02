@@ -3,7 +3,7 @@ this project use searching algorithms to get the path and cost between romania c
 ---------------------------------------
 searching algorithms used:
 AStar
-BFS_Project
+BFS
 Bidirectional
 Depth First search
 Depth Limited Search
